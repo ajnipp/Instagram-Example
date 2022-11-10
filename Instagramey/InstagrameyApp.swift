@@ -11,7 +11,7 @@ import SwiftUI
 struct InstagrameyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FeedView(feed: Feed.example)
         }
     }
 }

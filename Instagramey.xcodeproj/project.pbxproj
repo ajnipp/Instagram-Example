@@ -13,6 +13,8 @@
 		16B091D728DC1170006E57B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16B091D628DC1170006E57B6 /* Preview Assets.xcassets */; };
 		16B091DE28DC11DA006E57B6 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B091DD28DC11DA006E57B6 /* Feed.swift */; };
 		16B091E028DC1201006E57B6 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B091DF28DC1201006E57B6 /* Post.swift */; };
+		16C28E4128DD12C2004F3C36 /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C28E4028DD12C2004F3C36 /* PostView.swift */; };
+		16C28E4328DD156E004F3C36 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C28E4228DD156E004F3C36 /* FeedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		16B091D628DC1170006E57B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		16B091DD28DC11DA006E57B6 /* Feed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feed.swift; sourceTree = "<group>"; };
 		16B091DF28DC1201006E57B6 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		16C28E4028DD12C2004F3C36 /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
+		16C28E4228DD156E004F3C36 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				16B091E128DC12AF006E57B6 /* Models */,
 				16B091CF28DC116B006E57B6 /* InstagrameyApp.swift */,
 				16B091D128DC116B006E57B6 /* ContentView.swift */,
+				16C28E4228DD156E004F3C36 /* FeedView.swift */,
+				16C28E4028DD12C2004F3C36 /* PostView.swift */,
 				16B091D328DC1170006E57B6 /* Assets.xcassets */,
 				16B091D528DC1170006E57B6 /* Preview Content */,
 			);
@@ -154,6 +160,8 @@
 				16B091D228DC116B006E57B6 /* ContentView.swift in Sources */,
 				16B091DE28DC11DA006E57B6 /* Feed.swift in Sources */,
 				16B091D028DC116B006E57B6 /* InstagrameyApp.swift in Sources */,
+				16C28E4128DD12C2004F3C36 /* PostView.swift in Sources */,
+				16C28E4328DD156E004F3C36 /* FeedView.swift in Sources */,
 				16B091E028DC1201006E57B6 /* Post.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
